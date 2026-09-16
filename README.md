@@ -43,7 +43,7 @@ missing categorical data and a trustworthy numeric `Age` field.
 
 ## SQL Analysis
 
-All queries are in [`analysis_queries.sql`](analysis_queries(1).sql), run against the
+All queries are in [`analysis_queries(1).sql`](analysis_queries(1).sql), run against the
 cleaned data loaded into SQLite. Key results:
 
 **Overall:** 50.6% of respondents (637 of 1,259) have sought treatment for a mental
